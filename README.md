@@ -3,19 +3,41 @@
 
 This repository contains Python Object-Oriented Programming (OOP) assignments. These exercises cover a range of OOP concepts, including class creation, inheritance, abstraction, decorators, and more. ✨
 
----
-
-### Submit Your Work 📥
-Once you are done, submit your work using the following link:  
-🔗 [Submit Here](https://forms.gle/tS7C3sr55tUZ36GY8)
-
----
 
 ### Colab Notebook 📓
 Access the notebook here:  
 🔗 [Link to Colab Notebook](https://colab.research.google.com/drive/1P_dH5oUycTXT5XFEuYYWKcBQFHHcL0OX?usp=sharing)
 
 ---
+
+# Python OOP Concepts - Project
+
+## 📜 Table of Contents
+1. [Assignments](#1.Using self:)
+2. [Using `self`]()
+3. [Using `cls`]()
+4. [Public Variables and Methods](#)
+5. [Class Variables and Class Methods](#)
+6. [Static Variables and Static Methods](#)
+7. [Constructors and Destructors](#)
+8. [Access Modifiers: Public, Private, and Protected](#)
+9. [The `super()` Function](#)
+10. [Abstract Classes and Methods](#)
+11. [Instance Methods](#)
+12. [Class Methods](#)
+13. [Static Methods](#)
+14. [Composition](#)
+15. [Aggregation](#)
+16. [MRO and Diamond Inheritance](#)
+17. [Function Decorators](#)
+18. [Class Decorators](#)
+19. [Property Decorators](#)
+20. [`callable()` and `__call__()`](#)
+21. [Creating a Custom Exception](#)
+22. [Make a Custom Class Iterable](#)
+
+---
+
 
 ### 1. **Using `self`** 🧑‍💻  
 - **Assignment**: Create a class `Student` with attributes `name` and `marks`. Use the `self` keyword to initialize these values via a constructor. Add a method `display()` that prints student details.
