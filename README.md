@@ -13,8 +13,8 @@ Access the notebook here:
 # Python OOP Concepts - Project
 
 ## 📜 Table of Contents
-1. [`Using self`](#https://colab.research.google.com/drive/1P_dH5oUycTXT5XFEuYYWKcBQFHHcL0OX#scrollTo=lp1tvec-7fvT&line=4&uniqifier=1)
-2. [` Using cls:`](#https://colab.research.google.com/drive/1P_dH5oUycTXT5XFEuYYWKcBQFHHcL0OX#scrollTo=1bjqjxIv70F-&line=4&uniqifier=1)
+1. [Using `self`](#https://colab.research.google.com/drive/1P_dH5oUycTXT5XFEuYYWKcBQFHHcL0OX#scrollTo=lp1tvec-7fvT&line=4&uniqifier=1)
+2. [ Using `cls:`](#https://colab.research.google.com/drive/1P_dH5oUycTXT5XFEuYYWKcBQFHHcL0OX#scrollTo=1bjqjxIv70F-&line=4&uniqifier=1)
 3. [Using `cls`](#)
 4. [Public Variables and Methods](#)
 5. [Class Variables and Class Methods](#)
