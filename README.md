@@ -14,7 +14,7 @@ Access the notebook here:
 
 ## 📜 Table of Contents
 1. [Using self](#https://colab.research.google.com/drive/1P_dH5oUycTXT5XFEuYYWKcBQFHHcL0OX#scrollTo=lp1tvec-7fvT&line=4&uniqifier=1)
-2. [ Using cls:](#https://colab.research.google.com/drive/1P_dH5oUycTXT5XFEuYYWKcBQFHHcL0OX#scrollTo=1bjqjxIv70F-&line=4&uniqifier=1)
+2. [Using cls](#https://colab.research.google.com/drive/1P_dH5oUycTXT5XFEuYYWKcBQFHHcL0OX#scrollTo=1bjqjxIv70F-&line=4&uniqifier=1)
 3. [Public Variables and Methods](#)
 4. [Class Variables and Class Methods](#)
 5. [Static Variables and Static Methods](#)
