@@ -14,7 +14,7 @@ Access the notebook here:
 
 ## 📜 Table of Contents
 1. [Using `self`](#https://colab.research.google.com/drive/1P_dH5oUycTXT5XFEuYYWKcBQFHHcL0OX#scrollTo=lp1tvec-7fvT&line=4&uniqifier=1)
-2. [Using `self`](#https://colab.research.google.com/drive/1P_dH5oUycTXT5XFEuYYWKcBQFHHcL0OX?usp=sharing)
+2. [Using `self`](https://colab.research.google.com/drive/1P_dH5oUycTXT5XFEuYYWKcBQFHHcL0OX#scrollTo=some_unique_identifier)
 3. [Using `cls`](#https://colab.research.google.com/drive/1P_dH5oUycTXT5XFEuYYWKcBQFHHcL0OX?usp=sharing)
 4. [Public Variables and Methods](#https://colab.research.google.com/drive/1P_dH5oUycTXT5XFEuYYWKcBQFHHcL0OX?usp=sharing)
 5. [Class Variables and Class Methods](#https://colab.research.google.com/drive/1P_dH5oUycTXT5XFEuYYWKcBQFHHcL0OX?usp=sharing)
