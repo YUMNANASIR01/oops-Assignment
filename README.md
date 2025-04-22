@@ -78,12 +78,6 @@ Access the notebook here:
 Good luck with your assignments! 🚀 Keep pushing your limits! 💪
 """
 
-# Save to a file
-file_path = '/mnt/data/Python_OOP_Assignments.md'
-with open(file_path, 'w') as file:
-    file.write(content)
-
-file_path
 
 
 
