@@ -12,45 +12,29 @@ Access the notebook here:
 
 
 
+
 ## 📜 Table of Contents
-1. [Using self](#https://colab.research.google.com/drive/1P_dH5oUycTXT5XFEuYYWKcBQFHHcL0OX#scrollTo=lp1tvec-7fvT&line=4&uniqifier=1)
-2. [Using cls](#https://colab.research.google.com/drive/1P_dH5oUycTXT5XFEuYYWKcBQFHHcL0OX#scrollTo=1bjqjxIv70F-&line=4&uniqifier=1)
-3. [Public Variables and Methods](#https://colab.research.google.com/drive/1P_dH5oUycTXT5XFEuYYWKcBQFHHcL0OX#scrollTo=4xiyl1ke73ZH&line=3&uniqifier=1)
-4. [Class Variables and Class Methods](#https://colab.research.google.com/drive/1P_dH5oUycTXT5XFEuYYWKcBQFHHcL0OX#scrollTo=kz1IW0W-77GW&line=3&uniqifier=1)
-5. [Static Variables and Static Methods](#https://colab.research.google.com/drive/1P_dH5oUycTXT5XFEuYYWKcBQFHHcL0OX#scrollTo=wjPtJUEO79vS&line=2&uniqifier=1)
-6. [Constructors and Destructors](#https://colab.research.google.com/drive/1P_dH5oUycTXT5XFEuYYWKcBQFHHcL0OX#scrollTo=e35P1BJ-8Dwd&line=2&uniqifier=1)
-7. [Access Modifiers: Public, Private, and Protected](#https://colab.research.google.com/drive/1P_dH5oUycTXT5XFEuYYWKcBQFHHcL0OX#scrollTo=oW2_TwND8VY2&line=4&uniqifier=1)
-8. [The `super()` Function](#https://colab.research.google.com/drive/1P_dH5oUycTXT5XFEuYYWKcBQFHHcL0OX#scrollTo=lIE_murM8YPw&line=4&uniqifier=1)
-9. [Abstract Classes and Methods](#https://colab.research.google.com/drive/1P_dH5oUycTXT5XFEuYYWKcBQFHHcL0OX#scrollTo=cyAnHX_M8bEv&line=8&uniqifier=1)
-10. [Instance Methods](#https://colab.research.google.com/drive/1P_dH5oUycTXT5XFEuYYWKcBQFHHcL0OX#scrollTo=LxnOJT2k8d2r&line=2&uniqifier=1)
-11. [Class Methods](#https://colab.research.google.com/drive/1P_dH5oUycTXT5XFEuYYWKcBQFHHcL0OX#scrollTo=IJ3ZK6998gyA&line=3&uniqifier=1)
-12. [Static Methods](#https://colab.research.google.com/drive/1P_dH5oUycTXT5XFEuYYWKcBQFHHcL0OX#scrollTo=25hQ0KBE8jmb&line=3&uniqifier=1)
-13. [Composition](#https://colab.research.google.com/drive/1P_dH5oUycTXT5XFEuYYWKcBQFHHcL0OX#scrollTo=84if5Y3K8mAc&line=11&uniqifier=1)
-14. [Aggregation](#https://colab.research.google.com/drive/1P_dH5oUycTXT5XFEuYYWKcBQFHHcL0OX#scrollTo=SmO76AmR8piN&line=3&uniqifier=1)
-15. [MRO and Diamond Inheritance](#https://colab.research.google.com/drive/1P_dH5oUycTXT5XFEuYYWKcBQFHHcL0OX#scrollTo=P9UiwQmE8snr&line=3&uniqifier=1)
-16. [Function Decorators](#https://colab.research.google.com/drive/1P_dH5oUycTXT5XFEuYYWKcBQFHHcL0OX#scrollTo=mIrObq5B8vbr&line=4&uniqifier=1)
-17. [Class Decorators](#https://colab.research.google.com/drive/1P_dH5oUycTXT5XFEuYYWKcBQFHHcL0OX#scrollTo=jPmDerW88yJL&line=11&uniqifier=1)
-18. [Property Decorators](#https://colab.research.google.com/drive/1P_dH5oUycTXT5XFEuYYWKcBQFHHcL0OX#scrollTo=WtAZiPCA82Xh&line=5&uniqifier=1)
-19. [`callable()` and `__call__()`](#https://colab.research.google.com/drive/1P_dH5oUycTXT5XFEuYYWKcBQFHHcL0OX#scrollTo=new1wYI285hd&line=4&uniqifier=1)
-20. [Creating a Custom Exception](#https://colab.research.google.com/drive/1P_dH5oUycTXT5XFEuYYWKcBQFHHcL0OX#scrollTo=nVlmG3j188Y-&line=7&uniqifier=1)
-21. [Make a Custom Class Iterable](#https://colab.research.google.com/drive/1P_dH5oUycTXT5XFEuYYWKcBQFHHcL0OX#scrollTo=Tlg0RoXn8_RU&line=9&uniqifier=1)
-
----
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+1. [Using self](https://colab.research.google.com/drive/1P_dH5oUycTXT5XFEuYYWKcBQFHHcL0OX#scrollTo=lp1tvec-7fvT&line=4&uniqifier=1)
+2. [Using cls](https://colab.research.google.com/drive/1P_dH5oUycTXT5XFEuYYWKcBQFHHcL0OX#scrollTo=1bjqjxIv70F-&line=4&uniqifier=1)
+3. [Public Variables and Methods](https://colab.research.google.com/drive/1P_dH5oUycTXT5XFEuYYWKcBQFHHcL0OX#scrollTo=4xiyl1ke73ZH&line=3&uniqifier=1)
+4. [Class Variables and Class Methods](https://colab.research.google.com/drive/1P_dH5oUycTXT5XFEuYYWKcBQFHHcL0OX#scrollTo=kz1IW0W-77GW&line=3&uniqifier=1)
+5. [Static Variables and Static Methods](https://colab.research.google.com/drive/1P_dH5oUycTXT5XFEuYYWKcBQFHHcL0OX#scrollTo=wjPtJUEO79vS&line=2&uniqifier=1)
+6. [Constructors and Destructors](https://colab.research.google.com/drive/1P_dH5oUycTXT5XFEuYYWKcBQFHHcL0OX#scrollTo=e35P1BJ-8Dwd&line=2&uniqifier=1)
+7. [Access Modifiers: Public, Private, and Protected](https://colab.research.google.com/drive/1P_dH5oUycTXT5XFEuYYWKcBQFHHcL0OX#scrollTo=oW2_TwND8VY2&line=4&uniqifier=1)
+8. [The `super()` Function](https://colab.research.google.com/drive/1P_dH5oUycTXT5XFEuYYWKcBQFHHcL0OX#scrollTo=lIE_murM8YPw&line=4&uniqifier=1)
+9. [Abstract Classes and Methods](https://colab.research.google.com/drive/1P_dH5oUycTXT5XFEuYYWKcBQFHHcL0OX#scrollTo=cyAnHX_M8bEv&line=8&uniqifier=1)
+10. [Instance Methods](https://colab.research.google.com/drive/1P_dH5oUycTXT5XFEuYYWKcBQFHHcL0OX#scrollTo=LxnOJT2k8d2r&line=2&uniqifier=1)
+11. [Class Methods](https://colab.research.google.com/drive/1P_dH5oUycTXT5XFEuYYWKcBQFHHcL0OX#scrollTo=IJ3ZK6998gyA&line=3&uniqifier=1)
+12. [Static Methods](https://colab.research.google.com/drive/1P_dH5oUycTXT5XFEuYYWKcBQFHHcL0OX#scrollTo=25hQ0KBE8jmb&line=3&uniqifier=1)
+13. [Composition](https://colab.research.google.com/drive/1P_dH5oUycTXT5XFEuYYWKcBQFHHcL0OX#scrollTo=84if5Y3K8mAc&line=11&uniqifier=1)
+14. [Aggregation](https://colab.research.google.com/drive/1P_dH5oUycTXT5XFEuYYWKcBQFHHcL0OX#scrollTo=SmO76AmR8piN&line=3&uniqifier=1)
+15. [MRO and Diamond Inheritance](https://colab.research.google.com/drive/1P_dH5oUycTXT5XFEuYYWKcBQFHHcL0OX#scrollTo=P9UiwQmE8snr&line=3&uniqifier=1)
+16. [Function Decorators](https://colab.research.google.com/drive/1P_dH5oUycTXT5XFEuYYWKcBQFHHcL0OX#scrollTo=mIrObq5B8vbr&line=4&uniqifier=1)
+17. [Class Decorators](https://colab.research.google.com/drive/1P_dH5oUycTXT5XFEuYYWKcBQFHHcL0OX#scrollTo=jPmDerW88yJL&line=11&uniqifier=1)
+18. [Property Decorators](https://colab.research.google.com/drive/1P_dH5oUycTXT5XFEuYYWKcBQFHHcL0OX#scrollTo=WtAZiPCA82Xh&line=5&uniqifier=1)
+19. [`callable()` and `__call__()`](https://colab.research.google.com/drive/1P_dH5oUycTXT5XFEuYYWKcBQFHHcL0OX#scrollTo=new1wYI285hd&line=4&uniqifier=1)
+20. [Creating a Custom Exception](https://colab.research.google.com/drive/1P_dH5oUycTXT5XFEuYYWKcBQFHHcL0OX#scrollTo=nVlmG3j188Y-&line=7&uniqifier=1)
+21. [Make a Custom Class Iterable](https://colab.research.google.com/drive/1P_dH5oUycTXT5XFEuYYWKcBQFHHcL0OX#scrollTo=Tlg0RoXn8_RU&line=9&uniqifier=1)
 
 # Python OOP Concepts - Project
 
