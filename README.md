@@ -15,8 +15,8 @@ Access the notebook here:
 ## 📜 Table of Contents
 1. [Using self](#https://colab.research.google.com/drive/1P_dH5oUycTXT5XFEuYYWKcBQFHHcL0OX#scrollTo=lp1tvec-7fvT&line=4&uniqifier=1)
 2. [Using cls](#https://colab.research.google.com/drive/1P_dH5oUycTXT5XFEuYYWKcBQFHHcL0OX#scrollTo=1bjqjxIv70F-&line=4&uniqifier=1)
-3. [Public Variables and Methods](#)
-4. [Class Variables and Class Methods](#)
+3. [Public Variables and Methods](#https://colab.research.google.com/drive/1P_dH5oUycTXT5XFEuYYWKcBQFHHcL0OX#scrollTo=4xiyl1ke73ZH&line=3&uniqifier=1)
+4. [Class Variables and Class Methods](#https://colab.research.google.com/drive/1P_dH5oUycTXT5XFEuYYWKcBQFHHcL0OX#scrollTo=kz1IW0W-77GW&line=3&uniqifier=1)
 5. [Static Variables and Static Methods](#)
 6. [Constructors and Destructors](#)
 7. [Access Modifiers: Public, Private, and Protected](#)
